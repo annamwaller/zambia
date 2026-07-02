@@ -1,1 +1,15 @@
-.ipynb_checkpoints/
+# Ignore large data files
+*.nc
+*.nc4
+*.tif
+*.tiff
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.parquet
+*.feather
+*.h5
+
+# Notebook checkpoints
+*.ipynb_checkpoints/

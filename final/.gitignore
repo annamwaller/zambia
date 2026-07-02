@@ -1,0 +1,15 @@
+# Ignore large data files
+*.nc
+*.nc4
+*.tif
+*.tiff
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.parquet
+*.feather
+*.h5
+
+# Ignore generated files and checkpoints
+*.ipynb_checkpoints/
